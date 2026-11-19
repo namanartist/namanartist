@@ -32,6 +32,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=20&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+SaaS+platforms;Shipping+applied+AI+systems;Optimizing+everything%2C+one+derivative+at+a+time" alt="typing" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=namanartist&label=Profile+views&color=7c3aed&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/namanartist?style=flat-square&color=7c3aed&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-22c55e?style=flat-square" alt="status" />
+</p>
+
+---
+
+## 🎯 Right Now
+
+| 🔭 Building | 🌱 Learning | 💬 Ask me about |
+| :-- | :-- | :-- |
+| Scalable SaaS, AI-powered web apps | Cloud systems, edge inference, system design | Next.js, FastAPI, optimization, applied math |
+
 ---
 
 ## 🛠️ Stack
@@ -68,6 +82,18 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namanartist/namanartist/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namanartist/namanartist/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/namanartist/namanartist/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -77,5 +103,13 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=namanartist&theme=radical&hide_border=true" alt="streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namanartist&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="activity graph" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=namanartist&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+<p align="center"><i>“Optimization is just finding where the slope is zero.”</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=90&section=footer" width="100%" alt="footer" />
